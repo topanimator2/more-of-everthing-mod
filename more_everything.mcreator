@@ -2,30 +2,31 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Trere",
-      "type": "biome",
+      "name": "Origin",
+      "type": "musicdisc",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "trere"
-    },
-    {
-      "name": "Dd",
-      "type": "keybind",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dd"
+      "registry_name": "origin"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "origin_disk",
+      "files": [
+        "ketsa_-_gentle_wave"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
   "language_map": {
     "en_us": {
-      "key.mcreator.dd": "Dd",
-      "biome.more_everything.trere": "Trere"
+      "item.more_everything.origin.desc": "calming",
+      "item.more_everything.origin": "Origin",
+      "subtitles.origin_disk": ""
     }
   },
   "workspaceSettings": {

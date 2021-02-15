@@ -47,6 +47,8 @@ public class MoreEverythingModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MoreEverythingModElements() {
+		sounds.put(new ResourceLocation("more_everything", "origin_disk"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("more_everything", "origin_disk")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("more_everything").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

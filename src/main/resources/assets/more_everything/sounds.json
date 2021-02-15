@@ -1,1 +1,11 @@
-{}
+{
+  "origin_disk": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "more_everything:ketsa_-_gentle_wave",
+        "stream": false
+      }
+    ]
+  }
+}
