@@ -1,0 +1,49 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Trere",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trere"
+    },
+    {
+      "name": "Dd",
+      "type": "keybind",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dd"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "key.mcreator.dd": "Dd",
+      "biome.more_everything.trere": "Trere"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_everything",
+    "modName": "more everything!",
+    "version": "1.0.0",
+    "author": "mark, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.moreeverything",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
