@@ -3,15 +3,17 @@
   "_type": "musicdisc",
   "definition": {
     "texture": "music_disc_blocks",
-    "name": "Origin",
-    "description": "calming",
+    "name": "Origin disc",
+    "description": "ketsi",
     "creativeTab": {
       "value": "MISC"
     },
     "music": {
       "value": "CUSTOM:origin_disk"
     },
-    "specialInfo": [],
+    "specialInfo": [
+      "it calming"
+    ],
     "hasGlow": true
   }
 }

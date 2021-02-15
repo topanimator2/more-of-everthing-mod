@@ -9,6 +9,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "origin"
+    },
+    {
+      "name": "Ironbigtableg",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironbigtableg"
+    },
+    {
+      "name": "Biggcraftingtable",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "biggcraftingtable"
+    },
+    {
+      "name": "Irontable",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "irontable"
+    },
+    {
+      "name": "Steelingot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelingot"
     }
   ],
   "variable_elements": [],
@@ -24,9 +60,11 @@
   ],
   "language_map": {
     "en_us": {
-      "item.more_everything.origin.desc": "calming",
-      "item.more_everything.origin": "Origin",
-      "subtitles.origin_disk": ""
+      "item.more_everything.origin.desc": "ketsi",
+      "item.more_everything.steelingot": "Steel ingot",
+      "item.more_everything.origin": "Origin disc",
+      "subtitles.origin_disk": "",
+      "block.more_everything.biggcraftingtable": "iron crafting table"
     }
   },
   "workspaceSettings": {

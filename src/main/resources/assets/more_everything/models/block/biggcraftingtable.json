@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_everything:blocks/crafting_table_side",
+    "up": "more_everything:blocks/crafting_table_top",
+    "north": "more_everything:blocks/crafting_table_front",
+    "east": "more_everything:blocks/crafting_table_side",
+    "south": "more_everything:blocks/crafting_table_side",
+    "west": "more_everything:blocks/crafting_table_side",
+    "particle": "more_everything:blocks/crafting_table_side"
+  }
+}

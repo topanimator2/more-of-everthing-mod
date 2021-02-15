@@ -1,5 +1,7 @@
 {
-  "item.more_everything.origin.desc": "calming",
-  "item.more_everything.origin": "Origin",
-  "subtitles.origin_disk": ""
+  "item.more_everything.origin.desc": "ketsi",
+  "item.more_everything.steelingot": "Steel ingot",
+  "item.more_everything.origin": "Origin disc",
+  "subtitles.origin_disk": "",
+  "block.more_everything.biggcraftingtable": "iron crafting table"
 }
