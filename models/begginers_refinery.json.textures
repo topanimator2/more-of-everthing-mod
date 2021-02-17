@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_terracotta",
+        "1": "terracotta",
+        "2": "blast_furnace_front",
+        "3": "bricks"
+      },
+      "name": "default"
+    }
+  }
+}

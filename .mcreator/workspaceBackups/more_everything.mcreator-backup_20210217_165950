@@ -1,0 +1,295 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Origin",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "origin"
+    },
+    {
+      "name": "Ironbigtableg",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironbigtableg"
+    },
+    {
+      "name": "Biggcraftingtable",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "biggcraftingtable"
+    },
+    {
+      "name": "Irontable",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "irontable"
+    },
+    {
+      "name": "Steelingot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelingot"
+    },
+    {
+      "name": "Refinery",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinery"
+    },
+    {
+      "name": "Refinerygui",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinerygui"
+    },
+    {
+      "name": "Onlycoal",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onlycoal",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Power",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power"
+    },
+    {
+      "name": "Woodsolarpanel",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodsolarpanel"
+    },
+    {
+      "name": "PowercablestraightUpdateTick",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercablestraight_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Powercablestraight",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercablestraight"
+    },
+    {
+      "name": "Powercable3",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercable_3"
+    },
+    {
+      "name": "RainofarrowsRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainofarrows_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rainofarrowsf",
+      "type": "function",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainofarrowsf"
+    },
+    {
+      "name": "Rainofarrows",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainofarrows"
+    },
+    {
+      "name": "Arrowgone",
+      "type": "function",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arrowgone"
+    },
+    {
+      "name": "SkillbuttonOnKeyPressed",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skillbutton_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "origin_disk",
+      "files": [
+        "ketsa_-_gentle_wave"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.more_everything.origin.desc": "ketsi",
+      "item.more_everything.steelingot": "Steel ingot",
+      "block.more_everything.powercablestraight": "Powercablestraight",
+      "block.more_everything.powercable_3": "Powercable 3",
+      "item.more_everything.rainofarrows": "Rain of arrows",
+      "item.more_everything.origin": "Origin disc",
+      "subtitles.origin_disk": "",
+      "itemGroup.tabpower": "Power",
+      "block.more_everything.refinery": "Refinery",
+      "block.more_everything.woodsolarpanel": "Woodsolarpanel",
+      "block.more_everything.biggcraftingtable": "iron crafting table"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_everything",
+    "modName": "more everything!",
+    "version": "1.0.0",
+    "author": "mark, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.moreeverything",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

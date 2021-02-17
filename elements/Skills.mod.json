@@ -1,0 +1,237 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "+1",
+          "width": 35,
+          "height": 20,
+          "name": "+1",
+          "x": 258,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+1",
+          "width": 35,
+          "height": 20,
+          "name": "+1",
+          "x": 258,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+1",
+          "width": 35,
+          "height": 20,
+          "name": "+1",
+          "x": 258,
+          "y": 98
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+1",
+          "width": 35,
+          "height": 20,
+          "name": "+1",
+          "x": 258,
+          "y": 125
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+1",
+          "width": 35,
+          "height": 20,
+          "name": "+1",
+          "x": 258,
+          "y": 152
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "width": 35,
+          "height": 20,
+          "name": "+",
+          "x": 258,
+          "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "speed",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "speed",
+          "x": 222,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "strength",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "strength",
+          "x": 213,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "jump height",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "jump height",
+          "x": 195,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "iron skin",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "iron skin",
+          "x": 204,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "extra life",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "extra life",
+          "x": 204,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "wings",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "wings",
+          "x": 222,
+          "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "100xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "100xp",
+          "x": 132,
+          "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "10 xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "10 xp",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "10 xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "10 xp",
+          "x": 132,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "15 xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "15 xp",
+          "x": 132,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "20 xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "20 xp",
+          "x": 132,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "25 xp",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "25 xp",
+          "x": 132,
+          "y": 152
+        }
+      }
+    ]
+  }
+}

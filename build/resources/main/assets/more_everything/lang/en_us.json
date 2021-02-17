@@ -1,7 +1,14 @@
 {
+  "item.more_everything.origin": "Origin disc",
+  "itemGroup.tabpower": "Power",
+  "block.more_everything.refinery": "Refinery",
+  "block.more_everything.woodsolarpanel": "Woodsolarpanel",
+  "key.mcreator.skillbutton": "Skillbutton",
   "item.more_everything.origin.desc": "ketsi",
   "item.more_everything.steelingot": "Steel ingot",
-  "item.more_everything.origin": "Origin disc",
+  "block.more_everything.powercablestraight": "Powercablestraight",
+  "block.more_everything.powercable_3": "Powercable 3",
+  "item.more_everything.rainofarrows": "Rain of arrows",
   "subtitles.origin_disk": "",
   "block.more_everything.biggcraftingtable": "iron crafting table"
 }

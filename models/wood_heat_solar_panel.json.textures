@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "dark_oak_planks",
+        "2": "black_concrete",
+        "3": "anvil",
+        "4": "black_stained_glass"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -2,13 +2,19 @@
   "group": "more_everything",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
+    "012",
     "345",
-    " 7 "
+    "678"
   ],
   "key": {
+    "0": {
+      "item": "more_everything:steelingot"
+    },
     "1": {
       "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "more_everything:steelingot"
     },
     "3": {
       "item": "minecraft:iron_ingot"
@@ -19,8 +25,14 @@
     "5": {
       "item": "minecraft:iron_ingot"
     },
+    "6": {
+      "item": "more_everything:steelingot"
+    },
     "7": {
       "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "more_everything:steelingot"
     }
   },
   "result": {

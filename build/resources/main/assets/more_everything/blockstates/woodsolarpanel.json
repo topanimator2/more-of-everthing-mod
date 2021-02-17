@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "more_everything:block/woodsolarpanel"
+    },
+    "facing=east": {
+      "model": "more_everything:block/woodsolarpanel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "more_everything:block/woodsolarpanel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "more_everything:block/woodsolarpanel",
+      "y": 270
+    }
+  }
+}

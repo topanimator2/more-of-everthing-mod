@@ -1,0 +1,9 @@
+{
+  "parent": "more_everything:custom/copper_power_cable",
+  "textures": {
+    "all": "more_everything:blocks/orange_concrete",
+    "particle": "more_everything:blocks/orange_concrete",
+    "0": "more_everything:blocks/anvil",
+    "1": "more_everything:blocks/orange_concrete"
+  }
+}

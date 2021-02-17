@@ -1,0 +1,11 @@
+{
+  "parent": "more_everything:custom/wood_heat_solar_panel",
+  "textures": {
+    "all": "more_everything:blocks/black_stained_glass",
+    "particle": "more_everything:blocks/black_stained_glass",
+    "1": "more_everything:blocks/dark_oak_planks",
+    "2": "more_everything:blocks/black_concrete",
+    "3": "more_everything:blocks/anvil",
+    "4": "more_everything:blocks/black_stained_glass"
+  }
+}

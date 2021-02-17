@@ -1,0 +1,11 @@
+{
+  "parent": "more_everything:custom/begginers_refinery",
+  "textures": {
+    "all": "more_everything:blocks/blast_furnace_front",
+    "particle": "more_everything:blocks/blast_furnace_front",
+    "0": "more_everything:blocks/red_terracotta",
+    "1": "more_everything:blocks/terracotta",
+    "2": "more_everything:blocks/blast_furnace_front",
+    "3": "more_everything:blocks/bricks"
+  }
+}
